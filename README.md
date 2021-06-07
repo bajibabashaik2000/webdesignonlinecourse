@@ -12,7 +12,8 @@ this repository contains online web design course using reactjs
 ***both bold and italic***
 
 1. Fruits
-    1.Mangoes
-    2.Oranges
-    3.Apples  
+         1.banana
+         2.oranges
+         3.mangoes
+          
     
