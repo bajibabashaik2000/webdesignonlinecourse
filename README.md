@@ -5,6 +5,7 @@ this repository contains online web design course using reactjs
 ### heading 3
 #### heading 4
 ##### heading 5
+###### heading 6
 
 **bold type of fontstyle**
 *italic type of fontstyle*
