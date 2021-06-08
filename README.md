@@ -11,10 +11,8 @@ this repository contains online web design course using reactjs
 *italic type of fontstyle*
 ***both bold and italic***
 
-1. Fruits
-         1.banana
-         2.oranges
-         3.mangoes
+![Tajmahal](Uploading image.png…)
+
           
     
 Name   | Number
